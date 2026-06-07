@@ -224,3 +224,9 @@ MIT License — free to use, modify, and distribute.
 - [MediaPipe](https://google.github.io/mediapipe/) — hand landmark detection
 - [OpenCV](https://opencv.org/) — image processing & display
 - [NumPy](https://numpy.org/) — fast array operations
+
+##Author
+
+Ranjan Chakrabortty
+
+GitHub: https://github.com/ds-with-ranjan
